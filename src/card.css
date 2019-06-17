@@ -1,0 +1,138 @@
+#card
+{
+    /*border: 1px solid black;*/ 
+    width: 100%;
+    height: 100%;
+    display: flex; 
+    justify-content: center;
+}
+.maincardcontainer
+{
+    /*border: 1px solid red;*/ 
+    width: 600px;
+    height: 400px; 
+    background: url(creditcardbg.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    position: relative;
+    color: white; 
+    overflow: hidden;
+    border-radius: 25px; 
+}
+.mainTitle
+{
+    float: right;
+    /*border: 1px solid yellow;*/ 
+    margin-right: 7%;
+    font-size: 2.5rem;  
+}
+.emvShipCard
+{
+    height: 60px;
+    width: auto;
+    position: absolute; 
+    top: 30%; 
+    left: 10%; 
+}
+.cardCode
+{
+    display: flex; 
+    /*border: 1px solid red;*/ 
+    position: absolute;
+    left: 6%; 
+    top: 50%; 
+    justify-content: space-around; 
+    background-color: rgba(215, 165, 32,.3); 
+    padding: 0px 2%;
+    width: 65%;  
+}
+.goldCorlor
+{
+    margin: 0 0.5rem; 
+    font-size: 2.125rem; 
+    font-family: 'Concert One', cursive;
+    font-weight: 100; 
+    background: -webkit-linear-gradient(rgb(185,201,93), white);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    filter: drop-shadow(-2px 0px rgb(54, 54, 54))
+     
+}
+.cardSecurityAndExperationDate
+{
+    display: flex;  
+    /*border: 1px solid black; */
+    width: 61.3%;
+    height: auto; 
+    position: absolute;
+    left: 4.5%; 
+    top: 67%; 
+    padding: 0px 4%;
+    margin: 0 0.5rem;
+    font-size: 1.5rem; 
+    justify-content: space-between;     
+}
+.experationDate
+{
+    position: relative;
+}
+.firstContainer
+{
+    position: absolute;
+    left: -80%; 
+    top: 18%; 
+    display: flex; 
+    font-size: 0.5rem; 
+}
+.secondContainer
+{
+    position: relative; 
+}
+.monthandyear
+{
+    position: absolute;
+    font-size: 0.53rem;
+    top: -45%;
+    left:  -15% ; 
+}
+.icon1
+{
+    color: white; 
+}
+.moreeditting
+{
+    position: absolute;
+    left: 10%; 
+    top: 75%; 
+}
+.visaandmasterCard
+{   /*border: 1px solid greenyellow; */
+    position: absolute; 
+    display: flex; 
+    flex-direction: column; 
+    right: 5%; 
+    top: 60%; 
+}
+.brandicon
+{
+    width: 100px; 
+    height: auto;
+}
+.holderInput
+{
+    position: absolute;
+    left: 70%;
+    top: 30%; 
+}
+.expirationDate
+{
+    position: absolute;
+    left: 70%;
+    top: 40%; 
+}
+.cardNumber
+{
+    position: absolute;
+    left: 70%;
+    top: 20%; 
+}
