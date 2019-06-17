@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/dynamic-credit-card/static/css/main.dc458030.chunk.css",
+    "main.js": "/dynamic-credit-card/static/js/main.08ca1241.chunk.js",
+    "main.js.map": "/dynamic-credit-card/static/js/main.08ca1241.chunk.js.map",
+    "runtime~main.js": "/dynamic-credit-card/static/js/runtime~main.a8842e53.js",
+    "runtime~main.js.map": "/dynamic-credit-card/static/js/runtime~main.a8842e53.js.map",
+    "static/js/2.d6a534e5.chunk.js": "/dynamic-credit-card/static/js/2.d6a534e5.chunk.js",
+    "static/js/2.d6a534e5.chunk.js.map": "/dynamic-credit-card/static/js/2.d6a534e5.chunk.js.map",
+    "index.html": "/dynamic-credit-card/index.html",
+    "precache-manifest.9ed32ce8f1b75222e8d6b8d20345d01c.js": "/dynamic-credit-card/precache-manifest.9ed32ce8f1b75222e8d6b8d20345d01c.js",
+    "service-worker.js": "/dynamic-credit-card/service-worker.js",
+    "static/css/main.dc458030.chunk.css.map": "/dynamic-credit-card/static/css/main.dc458030.chunk.css.map",
+    "static/media/card.css": "/dynamic-credit-card/static/media/creditcardbg.57c4f2c3.jpg"
+  }
+}
